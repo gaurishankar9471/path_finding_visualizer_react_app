@@ -1,0 +1,12 @@
+.grid {
+    margin: 200px 0 0;
+}
+
+
+.button-sbm{
+    background-color: indigo;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
